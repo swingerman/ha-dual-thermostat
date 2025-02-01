@@ -1,5 +1,5 @@
 -r requirements.txt
-pip>=24.1.2,<24.4
+pip>=24.1.2,<25.1
 pytest-homeassistant-custom-component==0.13.203
 pre-commit
 isort
